@@ -26,7 +26,7 @@ In case of using sub directory, enter the directory name
 
 ##### Enter a code from url
 
-Example url: ```https://asiansister.com/view_561_kcorinnnfan_2__38Pn```, code is ```561```
+Example url: ```https://asiansister.com/view_561*******```, code is ```561```
 
     Enter a code: 561
 ##
